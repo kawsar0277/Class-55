@@ -1,0 +1,5 @@
+
+constructor => __construct()
+destructor => __destruct()
+
+inheritance => 
